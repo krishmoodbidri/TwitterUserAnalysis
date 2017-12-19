@@ -4,7 +4,7 @@ Analyzing Twitter Dataset (https://snap.stanford.edu/data/twitter-2010.html) on 
 
 To run :
 
-git clone https://github.com/pahaz/twitter-hadoop-example.git
+git clone https://github.com/krishmoodbidri/TwitterUserAnalysis.git
 cd twitter-hadoop-example
 
 mvn compile
