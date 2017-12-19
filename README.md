@@ -5,9 +5,11 @@ Analyzing Twitter Dataset (https://snap.stanford.edu/data/twitter-2010.html) on 
 To run :
 
 git clone https://github.com/krishmoodbidri/TwitterUserAnalysis.git
+
 cd twitter-hadoop-example
 
 mvn compile
+
 mvn package
 
 hadoop jar target/hhd-1.0-SNAPSHOT.jar TwitterFollowerCounter /user/krish94/twitter-2010.txt /user/krish94/count
